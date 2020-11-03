@@ -4,3 +4,23 @@ main:
     url: /
   - title: "Categories"
     url: /categories/
+  - title: "Tags"
+    url: /tags/
+    
+docs:
+  - title: Project
+    children:
+      - title: "GYP"
+        url: /categories/gyp/
+      - title: "PhonmeFatale"
+        url: /categories/phonmefatale/
+        
+  - title: Study
+    children:
+      - title: "Algorithm"
+        url: /categories/algorithm/
+
+  - title: Personal
+    children:
+      - title: "etc"
+        url: /categories/etc/
